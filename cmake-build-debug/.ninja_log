@@ -1,0 +1,13 @@
+# ninja log v5
+2	354	7011826183428190	CMakeFiles/project_2.dir/main.cpp.obj	f80603bd1ed70277
+354	451	7011826184360509	project_2.exe	6e5bc7d02b3b8301
+8	73	7011640146427261	CMakeFiles/project_2.dir/Add.cpp.obj	df1f0be23cfa376
+11	73	7011654851460143	CMakeFiles/project_2.dir/add2.cpp.obj	b019ea27eb1eab50
+9	84	7011824615545617	CMakeFiles/project_2.dir/add.cpp.obj	30be8778f0525799
+8	66	7011829464064687	CMakeFiles/project_2.dir/celsiusConverter.cpp.obj	6d89abe2d15aa58b
+3	379	7011829467196287	CMakeFiles/project_2.dir/main.cpp.obj	f80603bd1ed70277
+379	483	7011829468183983	project_2.exe	51597b9bf89db619
+3	72	7011829797765489	CMakeFiles/project_2.dir/celsiusConverter.cpp.obj	6d89abe2d15aa58b
+73	177	7011829798781783	project_2.exe	51597b9bf89db619
+3	355	7011830029991329	CMakeFiles/project_2.dir/main.cpp.obj	f80603bd1ed70277
+355	455	7011830030958480	project_2.exe	51597b9bf89db619
